@@ -18,13 +18,14 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
+<!-- <a href="https://www.instagram.com/lunox.code/">
   <img align="center" 
        alt="Lunox's Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
-  
+-->  
+
 <a href="https://www.linkedin.com/in/lunox/">
   <img align="center" 
        alt="Linkdein" 
@@ -68,6 +69,7 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
+  <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/business-and-profession-hexagon/128/14-256.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
